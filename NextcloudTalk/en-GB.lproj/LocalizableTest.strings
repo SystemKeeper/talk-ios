@@ -4,7 +4,7 @@
 "NEW_NOTIFICATION_BODY" = "🔔 You have a new notification";
 
 /* No comment provided by engineer. */
-"%@ added to this new group conversation" = "%@ added to this new group conversation";
+"%@ added to this new group conversation" = "%@ added to this new group conversationAdd";
 
 /* No comment provided by engineer. */
 "%@ invitation" = "%@ invitation";
@@ -43,7 +43,7 @@
 "Accounts" = "Accounts";
 
 /* No comment provided by engineer. */
-"Activating lock screen" = "Activating lock screen";
+"Activating lock screen" = "Activating lock";
 
 /* No comment provided by engineer. */
 "Add" = "Add";
