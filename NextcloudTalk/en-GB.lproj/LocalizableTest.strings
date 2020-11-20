@@ -1,0 +1,683 @@
+/* Notifications default values*/
+"NEW_NOTIFICATION" = "Nextcloud notification";
+"NEW_NOTIFICATION_TITLE" = "";
+"NEW_NOTIFICATION_BODY" = "🔔 You have a new notification";
+
+/* No comment provided by engineer. */
+"%@ added to this new group conversation" = "%@ added to this new group conversation";
+
+/* No comment provided by engineer. */
+"%@ invitation" = "%@ invitation";
+
+/* {app name} is not installed */
+"%@ not installed" = "%@ not installed";
+
+/* {app name} version not supported */
+"%@ version not supported" = "%@ version not supported";
+
+/* No comment provided by engineer. */
+"%d days ago" = "%d days ago";
+
+/* No comment provided by engineer. */
+"%d hours ago" = "%d hours ago";
+
+/* No comment provided by engineer. */
+"%d minutes ago" = "%d minutes ago";
+
+/* No comment provided by engineer. */
+"%ld participants" = "%ld participants";
+
+/* No comment provided by engineer. */
+"%lu participants" = "%lu participants";
+
+/* No comment provided by engineer. */
+"1 participant" = "1 participant";
+
+/* No comment provided by engineer. */
+"@-mentions only" = "@-mentions only";
+
+/* No comment provided by engineer. */
+"About" = "About";
+
+/* No comment provided by engineer. */
+"Accounts" = "Accounts";
+
+/* No comment provided by engineer. */
+"Activating lock screen" = "Activating lock screen";
+
+/* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
+"Add (%lu)" = "Add (%lu)";
+
+/* No comment provided by engineer. */
+"Add account" = "Add account";
+
+/* No comment provided by engineer. */
+"Add participants" = "Add participants";
+
+/* No comment provided by engineer. */
+"Add participants to new group conversation" = "Add participants to new group conversation";
+
+/* No comment provided by engineer. */
+"Add to favorites" = "Add to favourites";
+
+/* No comment provided by engineer. */
+"All messages" = "All messages";
+
+/* No comment provided by engineer. */
+"All notifications are muted" = "All notifications are muted";
+
+/* No comment provided by engineer. */
+"Alphabetical order" = "Alphabetical order";
+
+/* No comment provided by engineer. */
+"An error occurred while adding %@ to the room" = "An error occurred while adding %@ to the room";
+
+/* No comment provided by engineer. */
+"An error occurred while creating the conversation" = "An error occurred while creating the conversation";
+
+/* No comment provided by engineer. */
+"An error occurred while joining the call" = "An error occurred while joining the call";
+
+/* No comment provided by engineer. */
+"An error occurred while joining the conversation" = "An error occurred while joining the conversation";
+
+/* No comment provided by engineer. */
+"An error occurred while sending the message" = "An error occurred while sending the message";
+
+/* No comment provided by engineer. */
+"An error occurred while sharing the file" = "An error occurred while sharing the file";
+
+/* No comment provided by engineer. */
+"Anyone who knows the link to this conversation will be able to access it. You can protect it by setting a password." = "Anyone who knows the link to this conversation will be able to access it. You can protect it by setting a password.";
+
+/* No comment provided by engineer. */
+"Away" = "Away";
+
+/* No comment provided by engineer. */
+"Back" = "Back";
+
+/* No comment provided by engineer. */
+"Camera" = "Camera";
+
+/* No comment provided by engineer. */
+"Camera disabled" = "Camera disabled";
+
+/* No comment provided by engineer. */
+"Camera enabled" = "Camera enabled";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cancel conversation creation" = "Cancel conversation creation";
+
+/* No comment provided by engineer. */
+"Cancelled call from another account" = "Cancelled call from another account";
+
+/* No comment provided by engineer. */
+"Change password" = "Change password";
+
+/* No comment provided by engineer. */
+"Change password type" = "Change password type";
+
+/* No comment provided by engineer. */
+"Chat" = "Chat";
+
+/* No comment provided by engineer. */
+"Configuration" = "Configuration";
+
+/* No comment provided by engineer. */
+"Connecting to %@ …" = "Connecting to %@ …";
+
+/* No comment provided by engineer. */
+"Connecting to the call …" = "Connecting to the call …";
+
+/* No comment provided by engineer. */
+"Continue to next step of conversation creation" = "Continue to next step of conversation creation";
+
+/* No comment provided by engineer. */
+"Conversation info" = "Conversation info";
+
+/* No comment provided by engineer. */
+"Copy" = "Copy";
+
+/* No comment provided by engineer. */
+"Could not add participant" = "Could not add participant";
+
+/* No comment provided by engineer. */
+"Could not change favorite setting" = "Could not change favorite setting";
+
+/* No comment provided by engineer. */
+"Could not change lobby state of the conversation" = "Could not change lobby state of the conversation";
+
+/* No comment provided by engineer. */
+"Could not change moderation permissions of the participant" = "Could not change moderation permissions of the participant";
+
+/* No comment provided by engineer. */
+"Could not change notifications setting" = "Could not change notifications setting";
+
+/* No comment provided by engineer. */
+"Could not change password protection settings" = "Could not change password protection settings";
+
+/* No comment provided by engineer. */
+"Could not change sharing permissions of the conversation" = "Could not change sharing permissions of the conversation";
+
+/* No comment provided by engineer. */
+"Could not create conversation" = "Could not create conversation";
+
+/* No comment provided by engineer. */
+"Could not delete conversation" = "Could not delete conversation";
+
+/* No comment provided by engineer. */
+"Could not join %@" = "Could not join %@";
+
+/* No comment provided by engineer. */
+"Could not join %@ call" = "Could not join %@ call";
+
+/* No comment provided by engineer. */
+"Could not join call with %@" = "Could not join call with %@";
+
+/* No comment provided by engineer. */
+"Could not join conversation with %@" = "Could not join conversation with %@";
+
+/* No comment provided by engineer. */
+"Could not leave conversation" = "Could not leave conversation";
+
+/* No comment provided by engineer. */
+"Could not remove participant" = "Could not remove participant";
+
+/* No comment provided by engineer. */
+"Could not rename the conversation" = "Could not rename the conversation";
+
+/* No comment provided by engineer. */
+"Could not send the message" = "Could not send the message";
+
+/* No comment provided by engineer. */
+"Could not share file" = "Could not share file";
+
+/* No comment provided by engineer. */
+"Create" = "Create";
+
+/* No comment provided by engineer. */
+"Create a conversation with %@" = "Create a conversation with %@";
+
+/* No comment provided by engineer. */
+"Create a new conversation" = "Create a new conversation";
+
+/* No comment provided by engineer. */
+"Create a new group conversation" = "Create a new group conversation";
+
+/* No comment provided by engineer. */
+"Create a new public conversation" = "Create a new public conversation";
+
+/* No comment provided by engineer. */
+"Default" = "Default";
+
+/* No comment provided by engineer. */
+"Delete" = "Delete";
+
+/* No comment provided by engineer. */
+"Delete conversation" = "Delete conversation";
+
+/* No comment provided by engineer. */
+"Demote from moderator" = "Demote from moderator";
+
+/* No comment provided by engineer. */
+"Disconnected" = "Disconnected";
+
+/* No comment provided by engineer. */
+"Do not disturb" = "Do not disturb";
+
+/* No comment provided by engineer. */
+"Do you really want to delete this conversation?" = "Do you really want to delete this conversation?";
+
+/* No comment provided by engineer. */
+"Do you really want to leave this conversation?" = "Do you really want to leave this conversation?";
+
+/* No comment provided by engineer. */
+"Do you really want to log out from this account?" = "Do you really want to log out from this account?";
+
+/* No comment provided by engineer. */
+"Do you really want to remove this account?" = "Do you really want to remove this account?";
+
+/* No comment provided by engineer. */
+"Do you want to connect to the server anyway?" = "Do you want to connect to the server anyway?";
+
+/* No comment provided by engineer. */
+"Do you want to enable your camera?" = "Do you want to enable your camera?";
+
+/* No comment provided by engineer. */
+"Do you want to join this call?" = "Do you want to join this call?";
+
+/* No comment provided by engineer. */
+"Do you want to share '%@' in the conversation?" = "Do you want to share '%@' in the conversation?";
+
+/* No comment provided by engineer. */
+"Double tap to change accounts or add a new one." = "Double tap to change accounts or add a new one.";
+
+/* No comment provided by engineer. */
+"Double tap to create a conversation with %@" = "Double tap to create a conversation with %@";
+
+/* No comment provided by engineer. */
+"Double tap to create group, public or one to one conversations." = "Double tap to create group, public or one to one conversations.";
+
+/* No comment provided by engineer. */
+"Double tap to create the conversation" = "Double tap to create the conversation";
+
+/* No comment provided by engineer. */
+"Double tap to enable or disable the camera" = "Double tap to enable or disable the camera";
+
+/* No comment provided by engineer. */
+"Double tap to enable or disable the microphone" = "Double tap to enable or disable the microphone";
+
+/* No comment provided by engineer. */
+"Double tap to enable or disable the speaker" = "Double tap to enable or disable the speaker";
+
+/* No comment provided by engineer. */
+"Double tap to go to conversation information" = "Double tap to go to conversation information";
+
+/* No comment provided by engineer. */
+"Double tap to go to user profile and application settings" = "Double tap to go to user profile and application settings";
+
+/* No comment provided by engineer. */
+"Double tap to hang up the call" = "Double tap to hang up the call";
+
+/* No comment provided by engineer. */
+"Double tap to open file browser" = "Double tap to open file browser";
+
+/* No comment provided by engineer. */
+"Double tap to send message" = "Double tap to send message";
+
+/* No comment provided by engineer. */
+"Double tap to show call's chat" = "Double tap to show call's chat";
+
+/* No comment provided by engineer. */
+"Double tap to start a video call" = "Double tap to start a video call";
+
+/* No comment provided by engineer. */
+"Double tap to start a voice call" = "Double tap to start a voice call";
+
+/* No comment provided by engineer. */
+"Double tap to start creating a new group conversation" = "Double tap to start creating a new group conversation";
+
+/* No comment provided by engineer. */
+"Double tap to start creating a new public conversation" = "Double tap to start creating a new public conversation";
+
+/* No comment provided by engineer. */
+"Double tap to upgrade this voice call to a video call" = "Double tap to upgrade this voice call to a video call";
+
+/* No comment provided by engineer. */
+"Enable" = "Enable";
+
+/* No comment provided by engineer. */
+"Failed to connect to %@" = "Failed to connect to %@";
+
+/* No comment provided by engineer. */
+"Fetching status …" = "Fetching status …";
+
+/* No comment provided by engineer. */
+"Files" = "Files";
+
+/* No comment provided by engineer. */
+"Get source code" = "Get source code";
+
+/* No comment provided by engineer. */
+"Group conversation" = "Group conversation";
+
+/* No comment provided by engineer. */
+"Guest" = "Guest";
+
+/* No comment provided by engineer. */
+"guest" = "guest";
+
+/* No comment provided by engineer. */
+"Guests" = "Guests";
+
+/* No comment provided by engineer. */
+"Hang up" = "Hang up";
+
+/* No comment provided by engineer. */
+"If you delete the conversation, it will also be deleted for %@" = "If you delete the conversation, it will also be deleted for %@";
+
+/* No comment provided by engineer. */
+"If you delete the conversation, it will also be deleted for all other participants." = "If you delete the conversation, it will also be deleted for all other participants.";
+
+/* No comment provided by engineer. */
+"If you enable your camera, this call will be interrupted for a few seconds." = "If you enable your camera, this call will be interrupted for a few seconds.";
+
+/* No comment provided by engineer. */
+"in" = "in";
+
+/* No comment provided by engineer. */
+"Incoming call" = "Incoming call";
+
+/* No comment provided by engineer. */
+"Invalid server address" = "Invalid server address";
+
+/* No comment provided by engineer. */
+"Invisible" = "Invisible";
+
+/* It seems that {app name} is not installed in your server. */
+"It seems that %@ is not installed in your server." = "It seems that %@ is not installed in your server.";
+
+/* No comment provided by engineer. */
+"It seems that there is no Internet connection." = "It seems that there is no Internet connection.";
+
+/* No comment provided by engineer. */
+"Join call (audio only)" = "Join call (audio only)";
+
+/* No comment provided by engineer. */
+"Join call with video" = "Join call with video";
+
+/* No comment provided by engineer. */
+"Join the conversation %@ at" = "Join the conversation %@ at";
+
+/* No comment provided by engineer. */
+"Join the conversation at" = "Join the conversation at";
+
+/* No comment provided by engineer. */
+"Leave" = "Leave";
+
+/* No comment provided by engineer. */
+"Leave conversation" = "Leave conversation";
+
+/* No comment provided by engineer. */
+"less than a minute ago" = "less than a minute ago";
+
+/* No comment provided by engineer. */
+"Lobby" = "Lobby";
+
+/* No comment provided by engineer. */
+"Lock" = "Lock";
+
+/* No comment provided by engineer. */
+"Lock screen" = "Lock screen";
+
+/* No comment provided by engineer. */
+"Log out" = "Log out";
+
+/* No comment provided by engineer. */
+"Manual" = "Manual";
+
+/* No comment provided by engineer. */
+"Microphone" = "Microphone";
+
+/* No comment provided by engineer. */
+"Microphone disabled" = "Microphone disabled";
+
+/* No comment provided by engineer. */
+"Microphone enabled" = "Microphone enabled";
+
+/* No comment provided by engineer. */
+"Missed call from" = "Missed call from";
+
+/* No comment provided by engineer. */
+"moderator" = "moderator";
+
+/* No comment provided by engineer. */
+"Modification date" = "Modification date";
+
+/* No comment provided by engineer. */
+"More" = "More";
+
+/* No comment provided by engineer. */
+"New conversation" = "New conversation";
+
+/* No comment provided by engineer. */
+"New group conversation" = "New group conversation";
+
+/* No comment provided by engineer. */
+"New public conversation" = "New public conversation";
+
+/* No comment provided by engineer. */
+"Next" = "Next";
+
+/* No comment provided by engineer. */
+"Nextcloud Files" = "Nextcloud Files";
+
+/* No comment provided by engineer. */
+"Nextcloud server not found" = "Nextcloud server not found";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No files in here" = "No files in here";
+
+/* No comment provided by engineer. */
+"No messages yet, start the conversation!" = "No messages yet, start the conversation!";
+
+/* No comment provided by engineer. */
+"No participants found" = "No participants found";
+
+/* No comment provided by engineer. */
+"No password" = "No password";
+
+/* No comment provided by engineer. */
+"No results found" = "No results found";
+
+/* No comment provided by engineer. */
+"Notifications" = "Notifications";
+
+/* No comment provided by engineer. */
+"Notifications: %@" = "Notifications: %@";
+
+/* TRANSLATORS this is for a On/Off setting switch */
+"Off" = "Off";
+
+/* No comment provided by engineer. */
+"Offline" = "Offline";
+
+/* No comment provided by engineer. */
+"Offline, only showing downloaded messages" = "Offline, only showing downloaded messages";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* TRANSLATORS this is for a On/Off setting switch */
+"On" = "On";
+
+/* No comment provided by engineer. */
+"Online" = "Online";
+
+/* No comment provided by engineer. */
+"Open links in" = "Open links in";
+
+/* No comment provided by engineer. */
+"Password" = "Password";
+
+/* No comment provided by engineer. */
+"Password field for public conversation" = "Password field for public conversation";
+
+/* No comment provided by engineer. */
+"Password type" = "Password type";
+
+/* No comment provided by engineer. */
+"Photo Library" = "Photo Library";
+
+/* No comment provided by engineer. */
+"Please check that you entered a valid server address." = "Please check that you entered a valid server address.";
+
+/* No comment provided by engineer. */
+"Please check that you entered the correct Nextcloud server address." = "Please check that you entered the correct Nextcloud server address.";
+
+/* Please update your server with the latest {app name} version available. */
+"Please update your server with the latest %@ version available." = "Please update your server with the latest %@ version available.";
+
+/* No comment provided by engineer. */
+"Please, set a name for this conversation." = "Please, set a name for this conversation.";
+
+/* No comment provided by engineer. */
+"Privacy" = "Privacy";
+
+/* No comment provided by engineer. */
+"Profile" = "Profile";
+
+/* No comment provided by engineer. */
+"Promote to moderator" = "Promote to moderator";
+
+/* No comment provided by engineer. */
+"Public conversation" = "Public conversation";
+
+/* No comment provided by engineer. */
+"Quality" = "Quality";
+
+/* No comment provided by engineer. */
+"Remove" = "Remove";
+
+/* No comment provided by engineer. */
+"Remove account" = "Remove account";
+
+/* No comment provided by engineer. */
+"Remove from favorites" = "Remove from favourites";
+
+/* No comment provided by engineer. */
+"Remove participant" = "Remove participant";
+
+/* No comment provided by engineer. */
+"Remove password" = "Remove password";
+
+/* No comment provided by engineer. */
+"Removing lock screen" = "Removing lock screen";
+
+/* No comment provided by engineer. */
+"Reply" = "Reply";
+
+/* No comment provided by engineer. */
+"Resend" = "Resend";
+
+/* No comment provided by engineer. */
+"Resolutions" = "Resolutions";
+
+/* No comment provided by engineer. */
+"Scan fingerprint to authenticate" = "Scan fingerprint to authenticate";
+
+/* No comment provided by engineer. */
+"Search" = "Search";
+
+/* No comment provided by engineer. */
+"Send conversation link" = "Send conversation link";
+
+/* No comment provided by engineer. */
+"Send message" = "Send message";
+
+/* No comment provided by engineer. */
+"Server address https://…" = "Server address https://…";
+
+/* No comment provided by engineer. */
+"Set new password:" = "Set new password:";
+
+/* No comment provided by engineer. */
+"Set password" = "Set password";
+
+/* No comment provided by engineer. */
+"Set password:" = "Set password:";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Share a file from your Nextcloud" = "Share a file from your Nextcloud";
+
+/* No comment provided by engineer. */
+"Share conversation link" = "Share conversation link";
+
+/* No comment provided by engineer. */
+"Share link" = "Share link";
+
+/* No comment provided by engineer. */
+"Simple" = "Simple";
+
+/* No comment provided by engineer. */
+"Some messages not shown, will be downloaded when online" = "Some messages not shown, will be downloaded when online";
+
+/* No comment provided by engineer. */
+"Speaker" = "Speaker";
+
+/* No comment provided by engineer. */
+"Speaker disabled" = "Speaker disabled";
+
+/* No comment provided by engineer. */
+"Speaker enabled" = "Speaker enabled";
+
+/* No comment provided by engineer. */
+"Start time" = "Start time";
+
+/* No comment provided by engineer. */
+"Status" = "Status";
+
+/* No comment provided by engineer. */
+"Strong" = "Strong";
+
+/* No comment provided by engineer. */
+"Unread messages" = "Unread messages";
+
+/* No comment provided by engineer. */
+"User profile and settings" = "User profile and settings";
+
+/* No comment provided by engineer. */
+"Video call" = "Video call";
+
+/* No comment provided by engineer. */
+"Video calls" = "Video calls";
+
+/* No comment provided by engineer. */
+"Video disabled on start" = "Video disabled on start";
+
+/* No comment provided by engineer. */
+"Video quality" = "Video quality";
+
+/* No comment provided by engineer. */
+"Video resolution" = "Video resolution";
+
+/* No comment provided by engineer. */
+"Voice call" = "Voice call";
+
+/* No comment provided by engineer. */
+"Waiting for %@ to join call …" = "Waiting for %@ to join call …";
+
+/* No comment provided by engineer. */
+"Waiting for others to join call …" = "Waiting for others to join call …";
+
+/* No comment provided by engineer. */
+"Webinar" = "Webinar";
+
+/* No comment provided by engineer. */
+"Write message, @ to mention someone …" = "Write message, @ to mention someone …";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Yesterday";
+
+/* No comment provided by engineer. */
+"You" = "You";
+
+/* No comment provided by engineer. */
+"You are currently waiting in the lobby" = "You are currently waiting in the lobby";
+
+/* No comment provided by engineer. */
+"You are currently waiting in the lobby.\nThis meeting is scheduled for\n%@" = "You are currently waiting in the lobby.\nThis meeting is scheduled for\n%@";
+
+/* No comment provided by engineer. */
+"You are not part of any conversation. Press + to start a new one." = "You are not part of any conversation. Press + to start a new one.";
+
+/* No comment provided by engineer. */
+"You have been muted by a moderator" = "You have been muted by a moderator";
+
+/* No comment provided by engineer. */
+"You need to promote a new moderator before you can leave %@." = "You need to promote a new moderator before you can leave %@.";
+
+/* No comment provided by engineer. */
+"You need to promote a new moderator before you can leave this conversation" = "You need to promote a new moderator before you can leave this conversation";
+
+/* No comment provided by engineer. */
+"↓ New messages" = "↓ New messages";
+
